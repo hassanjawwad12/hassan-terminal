@@ -189,10 +189,10 @@ function App() {
           <div className='col-span-1 row-span-1 w-full h-full'>
             <div className='flex flex-col justify-around h-full w-full'>
               <div className='w-full items-center justify-center flex'>
-                <a href='https://github.com/AbdurehmanSaleemi/react-terminal-app/issues' className='w-full h-full text-center p-5 text-xl uppercase text-white btnBg ease-in duration-75 hover:scale-110 hover:ease-in hover:duration-75 cursor-pointer antialiased'>Report a Bug</a>
+                <a href='https://github.com/hassanjawwad12/hassan-terminal/issues' className='w-full h-full text-center p-5 text-xl uppercase text-white btnBg ease-in duration-75 hover:scale-110 hover:ease-in hover:duration-75 cursor-pointer antialiased'>Report a Bug</a>
               </div>
               <div className='w-full items-center justify-center flex'>
-                <a href='https://github.com/AbdurehmanSaleemi/react-terminal-app' className='w-full inline-flex items-center gap-5 justify-center text-center text-xl uppercase text-white p-0 ease-in duration-75 hover:scale-110 hover:ease-in hover:duration-75 cursor-pointer antialiased'>Source Code <BsArrowRightShort className='text-2xl' /></a>
+                <a href='https://github.com/hassanjawwad12/hassan-terminal' className='w-full inline-flex items-center gap-5 justify-center text-center text-xl uppercase text-white p-0 ease-in duration-75 hover:scale-110 hover:ease-in hover:duration-75 cursor-pointer antialiased'>Source Code <BsArrowRightShort className='text-2xl' /></a>
               </div>
             </div>
           </div>
